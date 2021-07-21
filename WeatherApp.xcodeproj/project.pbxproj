@@ -20,7 +20,6 @@
 		13238B2726A565200008A96B /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 13238B2626A565200008A96B /* Alamofire */; };
 		13238B2D26A579700008A96B /* HomePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13238B2C26A579700008A96B /* HomePresenter.swift */; };
 		13238B3126A57B860008A96B /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13238B3026A57B860008A96B /* LocationManager.swift */; };
-		13C0331726A8646300D5F70A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 13C0331626A8646300D5F70A /* Info.plist */; };
 		13ED00B926A5A33F00A7A86E /* HourlyTemperatureCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13ED00B826A5A33F00A7A86E /* HourlyTemperatureCell.swift */; };
 		13ED00BD26A5A58600A7A86E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13ED00BC26A5A58600A7A86E /* Extensions.swift */; };
 		13ED00C126A5A5AA00A7A86E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13ED00C026A5A5AA00A7A86E /* Constants.swift */; };
@@ -253,7 +252,6 @@
 				13238A6F26A55A4D0008A96B /* LaunchScreen.storyboard in Resources */,
 				8836006326A7F79D00D1B5C8 /* Localizable.strings in Resources */,
 				13238A6C26A55A4D0008A96B /* Assets.xcassets in Resources */,
-				13C0331726A8646300D5F70A /* Info.plist in Resources */,
 				13238A6726A55A4A0008A96B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
