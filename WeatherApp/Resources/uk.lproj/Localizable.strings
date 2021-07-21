@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by iOS Developer on 21/07/21.
+  
+*/
+
+
+"Generic_Message" = "Щось пішло не так.";
+"No weather data available" = "Немає даних про погоду";
+"Enable your location service." = "Увімкніть службу локації.";
+"Some issue with Internet" = "Деякі проблеми з Інтернетом";
+"Something went wrong while geting your location" = "Щось пішло не так під час отримання вашого місцезнаходження";
+"SUNRISE" = "СОНЯК";
+"SUNSET" = "ЗАХІД СОНЦЯ";
+"CHANCE OF RAIN" = "ШАНС ДОЩУ";
+"HUMIDITY" = "ВЛАЖНІСТЬ";
+"WIND" = "ВІТЕР";
+"FEELS LIKE" = "ВІДЧУВАЄ, ЯК";
+"PRECIPITATION" = "ВИПАДКИ";
+"PRESSURE" = "ТИСК";
+
